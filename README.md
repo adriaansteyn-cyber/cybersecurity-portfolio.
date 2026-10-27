@@ -28,14 +28,13 @@ Analysed Windows security event logs as part of a suspicious-activity investigat
 ## Training & Virtual Job Simulations.
 
 ### Mastercard — Cybersecurity Job Simulation (Forage)
+[View Mastercard Completion Certificate](./certificates/Masterguard%20Virtual%20Job%20Completion%20Certificate.pdf)
 
 **Status:** Completed
 
 Completed a virtual job simulation focused on cybersecurity awareness, phishing simulation design, and interpreting phishing simulation results.
 
 **Skills explored:** Phishing awareness, security awareness training, data analysis, problem-solving, and communication.
-
-[View Mastercard Completion Certificate](./certificates/mastercard-cybersecurity-certificates.pdf)
 
 ## About Me
 I am studying toward a BSc in Computer Science and developing my cybersecurity skills through practical labs, industry training, and independent learning. My long-term goal is to work in digital forensics and incident response.
