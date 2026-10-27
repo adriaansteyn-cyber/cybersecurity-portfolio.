@@ -12,14 +12,14 @@ Welcome to my cybersecurity portfolio. This repository documents my development 
 ## Projects
 
 ### Wazuh SIEM Home Lab
-[View Wazuh SIEM Lab Documentation](./wazuh-siem-lab/README.md)
+[View Wazuh SIEM Lab Documentation](./projects/wazuh-siem-lab/README.md)
 
 **Status:** In progress
 
 Building a home lab to explore security monitoring, endpoint log collection, and SIEM workflows using Wazuh, Docker, Ubuntu on WSL2, and a Windows endpoint.
 
 ### Windows Event Log Investigation
-[View Windows Event Log Investigation](./windows-event-investigation/README.md)
+[View Windows Event Log Investigation](./projects/windows-event-investigation/README.md)
 
 **Status** Practical exercises 
 
