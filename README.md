@@ -35,7 +35,7 @@ Completed a virtual job simulation focused on cybersecurity awareness, phishing 
 
 **Skills explored:** Phishing awareness, security awareness training, data analysis, problem-solving, and communication.
 
-[View completed simulation and certificate](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye/completed)
+[View Mastercard Completion Certificate](./certificates/mastercard-cybersecurity-certificates.pdf)
 
 ## About Me
 I am studying toward a BSc in Computer Science and developing my cybersecurity skills through practical labs, industry training, and independent learning. My long-term goal is to work in digital forensics and incident response.
