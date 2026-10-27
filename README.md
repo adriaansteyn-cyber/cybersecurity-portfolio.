@@ -28,7 +28,7 @@ Analysed Windows security event logs as part of a suspicious-activity investigat
 ## Training & Virtual Job Simulations.
 
 ### Mastercard — Cybersecurity Job Simulation (Forage)
-[View Mastercard Completion Certificate](./certificates/Masterguard%20Virtual%20Job%20Completion%20Certificate.pdf)
+[View Mastercard Completion Certificate](./certificates/Mastercard-Cybersecurity-Job-Simulation-Certificate.pdf)
 
 **Status:** Completed
 
