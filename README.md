@@ -25,6 +25,18 @@ Building a home lab to explore security monitoring, endpoint log collection, and
 
 Analysed Windows security event logs as part of a suspicious-activity investigation exercise. Documented the investigation process, relevant event evidence, and findings.
 
+## Training & Virtual Job Simulations.
+
+### Mastercard — Cybersecurity Job Simulation (Forage)
+
+**Status:** Completed
+
+Completed a virtual job simulation focused on cybersecurity awareness, phishing simulation design, and interpreting phishing simulation results.
+
+**Skills explored:** Phishing awareness, security awareness training, data analysis, problem-solving, and communication.
+
+[View completed simulation and certificate](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye/completed)
+
 ## About Me
 I am studying toward a BSc in Computer Science and developing my cybersecurity skills through practical labs, industry training, and independent learning. My long-term goal is to work in digital forensics and incident response.
 
