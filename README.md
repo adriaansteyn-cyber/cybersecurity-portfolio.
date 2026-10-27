@@ -28,7 +28,7 @@ Analysed Windows security event logs as part of a suspicious-activity investigat
 ## Training & Virtual Job Simulations.
 
 ### Mastercard — Cybersecurity Job Simulation (Forage)
-[View Mastercard Completion Certificate](./certificates/Mastercard%20Virtual%20Job%20Completion%20Certificate.pdf)
+[View Mastercard Completion Certificate](./virtual-job-simulations/Mastercard%20Virtual%20Job%20Completion%20Certificate.pdf)
 
 **Status:** Completed
 
@@ -37,7 +37,7 @@ Completed a virtual job simulation focused on cybersecurity awareness, phishing 
 **Skills explored:** Phishing awareness, security awareness training, data analysis, problem-solving, and communication.
 
 ### Tata — Cybersecurity Analyst Job Simulation (Forage)
-[View Tata Completion Certificate](./certificates/Tata-Cybersecurity-Analyst-Job-Simulation-Certificate.pdf)
+[View Tata Completion Certificate](./virtual-job-simulations/Tata-Cybersecurity-Analyst-Job-Simulation-Certificate.pdf)
 
 **Status:** Completed
 
