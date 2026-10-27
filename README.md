@@ -36,6 +36,15 @@ Completed a virtual job simulation focused on cybersecurity awareness, phishing 
 
 **Skills explored:** Phishing awareness, security awareness training, data analysis, problem-solving, and communication.
 
+### Tata — Cybersecurity Analyst Job Simulation (Forage)
+[View Tata Completion Certificate](./certificates/Tata-Cybersecurity-Analyst-Job-Simulation-Certificate.pdf)
+
+**Status:** Completed
+
+Completed practical tasks covering identity and access management (IAM), IAM strategy assessment, designing IAM solutions, and platform integration.
+
+**Skills explored:** Identity and access management, security analysis, solution design, and technical problem-solving.
+
 ## About Me
 I am studying toward a BSc in Computer Science and developing my cybersecurity skills through practical labs, industry training, and independent learning. My long-term goal is to work in digital forensics and incident response.
 
