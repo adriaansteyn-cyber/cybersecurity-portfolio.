@@ -19,6 +19,8 @@ Welcome to my cybersecurity portfolio. This repository documents my development 
 Building a home lab to explore security monitoring, endpoint log collection, and SIEM workflows using Wazuh, Docker, Ubuntu on WSL2, and a Windows endpoint.
 
 ### Windows Event Log Investigation
+[View Windows Event Log Investigation](./windows-event-investigation/README.md)
+
 **Status** Practical exercises 
 
 Analysed Windows security event logs as part of a suspicious-activity investigation exercise. Documented the investigation process, relevant event evidence, and findings.
